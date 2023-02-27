@@ -1,0 +1,46 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "cSpell.userWords": [
+        "Bdnsyint",
+        "empl",
+        "Escanaba",
+        "FLSA",
+        "Gogebic",
+        "GOID",
+        "GOTID",
+        "INACT",
+        "Jenzabar",
+        "Keweenaw",
+        "Marinette",
+        "odbc",
+        "Ontonagon",
+        "pyobdc",
+        "pyodbc",
+        "UDEF"
+    ],
+    "python.defaultInterpreterPath": "C:\\Users\\jared.paquette\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "remote.SSH.remotePlatform": {
+        "DrManhattan": "windows"
+    },
+    "pythonTestExplorer.testFramework": "pytest",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "editor.formatOnSaveMode": "file",
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.analysis.typeCheckingMode": "off",
+    "git.autofetch": true,
+    "editor.linkedEditing": true,
+    "[python]": {
+        "editor.formatOnType": true
+    }
+}
